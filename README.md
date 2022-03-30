@@ -22,6 +22,7 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 #### problem2-KMeans-HAC-Clustering.py
 
+- Referred to as `T4_P2.py` in the specifications
 - Implements K-Means and HAC to classify images from the [MNIST dataset] (http://yann.lecun.com/exdb/mnist/) (a collection of handwritten digits used as a benchmark for image recognition)
 - Implements 3 K-Means Classifiers where K = 5, 10, 20
 - Implements 3 HAC Classifiers using min, max, and centroid-based linkages
