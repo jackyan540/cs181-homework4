@@ -18,8 +18,8 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 #### problem1-Plot-Basis-Transformed-Data.py
 
-- A
+- Plots basis transformed training data and the optimal decision boundary
 
 #### problem2-KMeans-HAC-Clustering.py
 
-- A
+- Implements K-Means and HAC to classify images from the [MNIST dataset] (http://yann.lecun.com/exdb/mnist/) (a collection of handwritten digits used as a benchmark for image recognition)
