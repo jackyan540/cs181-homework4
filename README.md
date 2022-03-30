@@ -5,10 +5,10 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 > Solutions contained in the `personal-solutions` folder
 
-1. A
-2. A
-3. A
-4. A
+1. Fitting a Support Vector Machine (SVM) by solving for the discriminant function and decision boundary
+2. Implementing and comparing K-Means Clustering and Hierarchical Agglomerative Clustering (HAC) for classifying images
+3. Computer Science ethics covering discrimination and fairness in machine learning settings
+4. Computer Science ethics covering the moral obligation of machine learning practitioners in combatting algorithmic discrimination
 
 ---
 
